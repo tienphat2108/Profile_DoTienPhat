@@ -145,9 +145,9 @@ Profile_DoTienPhat/
 ## 📞 Support & Contact
 
 For questions or customization requests:
-- **Email**: dotienphat@email.com
-- **LinkedIn**: linkedin.com/in/dotienphat
-- **GitHub**: github.com/dotienphat
+- **Gmail**: dotienphat2108@gmail.com
+- **LinkedIn**: www.linkedin.com/in/tiến-phát-đỗ-34110236a
+- **GitHub**: https://github.com/tienphat2108
 
 ## 📄 License
 
@@ -158,3 +158,4 @@ This project is open source and available under the [MIT License](LICENSE).
 **Built with ❤️ for Quality Assurance**
 
 *"Tôi tìm bug nhanh hơn tìm đồ thất lạc ở nhà"* 🐛
+
