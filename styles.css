@@ -246,6 +246,13 @@ body {
     text-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     /* Enhanced Vietnamese text rendering for headings */
     font-feature-settings: "kern" 1, "liga" 1, "calt" 1, "ss01" 1;
+    /* Fix for Vietnamese diacritics */
+    line-height: 1.1;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    overflow: visible;
+    text-overflow: visible;
+    white-space: nowrap;
 }
 
 /* Enhanced buttons */
